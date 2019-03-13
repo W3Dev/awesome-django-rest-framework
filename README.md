@@ -12,6 +12,7 @@ Django REST Framework is a Django Framework to build and serve REST APIs with Dj
 
 ## Tools
 - [Generate Models, Viewset and Routes](http://restapibuilder.com) - REST Api Builder
+- [Classic DRF](http://www.cdrf.co) - Classic DRF
 
 ## Tutorial 
 - [Let's Build an API with Django RSF](https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5)
